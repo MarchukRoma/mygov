@@ -39,13 +39,10 @@ function App() {
       <main className="main">
         <div className="color-div">
           <p className="color-div-title">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat.
+            Brokerlik faoliyati uchun soliq to'lovlarini to'lash
           </p>
           <div className="bottom-way">
-            <p>Невідомо що</p>
+            <p>Bosh sahifa</p>
             <svg
               xmlns="http://www.w3.org/2000/svg"
               fill="none"
@@ -60,7 +57,7 @@ function App() {
                 d="m8.25 4.5 7.5 7.5-7.5 7.5"
               />
             </svg>
-            <p>Услуги</p>
+            <p>Xizmatlar</p>
             <svg
               xmlns="http://www.w3.org/2000/svg"
               fill="none"
@@ -75,7 +72,7 @@ function App() {
                 d="m8.25 4.5 7.5 7.5-7.5 7.5"
               />
             </svg>
-            <p>Таможня</p>
+            <p>Brokerlir faoliyati</p>
           </div>
         </div>
         <div className="error-div">
