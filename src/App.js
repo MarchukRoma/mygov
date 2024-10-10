@@ -13,24 +13,21 @@ function App() {
               <div className="bottom-call-part">
                 <p>1242</p>
                 <span>
-                  my.gov.uz общие <br /> вопросы (24/7)
+                  my.gov.uz umumiy <br /> savollar (24/7)
                 </span>
               </div>
               <div className="bottom-call-part">
                 <p>1148</p>
-                <span>
-                  предложения и <br />
-                  жалобы{" "}
-                </span>
+                <span>Taklif va shikoyatlar</span>
               </div>
             </div>
           </div>
           <span className="proverka">
-            Проверка <br /> состояния заявки{" "}
+            Ariza holatini <br /> tekshirish
           </span>
           <img className="ciren" src="ciren.png" alt="ciren" />
           <div className="leng-container">
-            <span>RU</span>
+            <span>O'Z</span>
             <img src="drop.png" alt="drop" />
           </div>
           <img className="eye" src="eye.png" alt="eye" />

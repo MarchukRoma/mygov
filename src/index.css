@@ -126,7 +126,7 @@ html {
   max-width: 120rem;
   /* height: ; */
   padding: 2rem 4rem;
-  border-radius: 8px;
+  border-radius: 20px;
   background: linear-gradient(to right, #0458ca, #57cea0);
 }
 
@@ -189,5 +189,5 @@ html {
 
 .divaided {
   /* justify-content: space-between; */
-  gap: 4rem;
+  gap: 2rem;
 }
